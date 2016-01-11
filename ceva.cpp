@@ -1,6 +1,7 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
-int main(void)
+int main()
 {
-    cout<<"salut andrei sunt vlad";
+    cout<<"HELLO ANDREI";
+    return 0;
 }
